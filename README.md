@@ -1,1 +1,1 @@
-* HuggingFace_pipeline.py : Add HuggingFace pipeline for text generation
+* HuggingFace_text_generation.py : Add HuggingFace pipeline for text generation
